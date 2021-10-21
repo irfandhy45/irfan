@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 kode tag untuk paragrah adalah `<p>`
 dibawah ini adalah contoh tampilannya
-![img]screenshot/ss1.png
+![Gambar1](screenshot/ss1.png)
